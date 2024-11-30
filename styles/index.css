@@ -32,8 +32,7 @@ nav {
   top: 50%;
   right: 0px;
   transform: translateY(-50%);
-  /* Center the container vertically */
-
+  
 }
 
 .input-div img {
@@ -250,8 +249,6 @@ nav {
 ::-webkit-scrollbar {
   width: 8px;
 }
-
-
 
 ::-webkit-scrollbar-thumb {
   background: #A0A0A0;
